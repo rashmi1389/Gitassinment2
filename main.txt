@@ -1,2 +1,4 @@
 this is master branch
 new line to master brnach
+This is to understand sample scm
+
